@@ -13,5 +13,6 @@
 
 
 <h3 align="center">Following is the screenshot of the project </h3>
-![image](https://github.com/Akshat4756/ImageSlider_AndroidApplication/assets/100028672/34a2e914-ff9b-4513-a476-049d0972740e)
+![image](https://github.com/Akshat4756/ImageSlider_AndroidApplication/assets/100028672/560c2b75-2c49-4bc4-8d2d-1632c555f878)
+
 
